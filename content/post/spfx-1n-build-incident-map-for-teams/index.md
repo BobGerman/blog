@@ -12,10 +12,13 @@ tags:
   - SharePoint
   - SharePoint Framework (SPFx)
 type: regular
+
 videos:
 - https://www.youtube.com/watch?v=JaQSJsxOS0E
 draft: false
 ---
+
+# Build a Shared Map for Teams with SPFx
 
 A map is a powerful tool that allows people to navigate and explore the world around them. Whether it's planning a hike through the mountains, coordinating a search and rescue operation, or designing a new neighborhood, maps play a crucial role in many shared activities.
 
